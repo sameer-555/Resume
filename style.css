@@ -84,6 +84,10 @@ body {
   color: rgb(217, 255, 0)
 }
 
+.fa-java {
+  color: rgb(255, 60, 0)
+}
+
 .fa-js {
   color: rgb(61, 233, 45)
 }
@@ -92,6 +96,14 @@ body {
   color: burlywood
 }
 
+.fa-gamepad {
+  color: cornflowerblue;
+  font-size: 3em;
+  margin: 0.5rem;
+}
+
+
+.fa-java,
 .fa-python,
 .fa-js,
 .fa-database {
@@ -122,7 +134,7 @@ body {
 }
 
 footer {
-  background-color: #3f3f3f;
+  background-color: #d51cee7c;
   columns: #d5d5d5;
   padding-top: 2rem;
 }
